@@ -1,5 +1,15 @@
-# 我的博客
+---
+layout: default
+title: 首页
+---
 
-## 所有文章
+# 欢迎来到我的博客
 
-[测试文章](https://huangjiangfeng.github.io/2026-05-13-try)
+这是我的第一篇博客文章。
+
+- [关于我](/about)
+- [文章列表](/posts)
+
+## 最新动态
+
+这里可以写一些简单的介绍文字。Jekyll 会自动将 Markdown 转换为 HTML。
